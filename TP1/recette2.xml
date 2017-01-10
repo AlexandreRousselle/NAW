@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<recette>
+	<nom>Oeufs `a la coque</nom>
+	<portion>4</portion>
+	<preparation value="1" unit="min"/>
+	<cuisson value="3" unit="min"/>
+	<ingredients>
+		<i>
+			<nomingredient id="ing1">oeufs</nomingredient>
+			<nbre>4</nbre>
+		</i>
+	</ingredients>
+	<guide> 
+	Plongez d´elicatement les <renvoi ref="ing1">oeufs</renvoi> dans de l_eau port´ee `a ´ebullition. Fa^_tes reprendre l_´ebullition, puis baissez le feu et laissez cuire `a petits bouillons pendant <cuisson value="3" unit="min"/> minutes.
+	</guide>
+</recette>
